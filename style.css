@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+.header {
+  color: rgb(109, 33, 10);
+  margin:0px;
+  font-size: 5em;
+}
+
+body{
+    background-color:rgb(154, 189, 255);
+    
+}
+
+* {
+  font-family: "Delius", cursive;
+}
+
+.delius-regular {
+  font-family: "Delius", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
