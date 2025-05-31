@@ -1,14 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
 
 .header {
-  color: rgb(109, 33, 10);
-  margin:0px;
+  color: rgb(234, 239, 239);
+  margin: 0px;
   font-size: 5em;
+  
 }
 
-body{
-    background-color:rgb(154, 189, 255);
-    
+
+body {
+  background-color:rgb(51, 52, 70);
+  color: rgb(184, 207, 206);
+  
 }
 
 * {
