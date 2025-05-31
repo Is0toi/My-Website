@@ -4,14 +4,12 @@
   color: rgb(234, 239, 239);
   margin: 0px;
   font-size: 5em;
-  
 }
 
 
 body {
   background-color:rgb(51, 52, 70);
   color: rgb(184, 207, 206);
-  
 }
 
 * {
@@ -22,4 +20,10 @@ body {
   font-family: "Delius", cursive;
   font-weight: 400;
   font-style: normal;
+}
+
+.button{
+  background-color: rgb(127, 140, 170);
+  color: rgb(234, 239, 239);
+ 
 }
