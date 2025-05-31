@@ -8,7 +8,7 @@
 
 
 body {
-  background-color:rgb(51, 52, 70);
+  background-color: rgb(51, 52, 70);
   color: rgb(184, 207, 206);
 }
 
@@ -22,8 +22,8 @@ body {
   font-style: normal;
 }
 
-.button{
-  background-color: rgb(127, 140, 170);
+.button {
+  background-color: transparent;
   color: rgb(234, 239, 239);
- 
+
 }
